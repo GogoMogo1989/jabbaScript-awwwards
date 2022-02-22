@@ -123,7 +123,7 @@ nav button{
 
 /*--Arrow--*/
 
-.contentDiv {
+.aniarrow {
    justify-content: center;
    align-items: baseline;
 }
@@ -136,9 +136,9 @@ nav button{
 
 .arrow {
     animation: bouncing 1.5s infinite ease-in-out;
-    bottom: 0;
+    bottom: 0%;
     display: block;
-    height: 5%;
+    height: 3%;
     left: 50%;
     transform: translate(-50%, 0%);
     position: fixed;
